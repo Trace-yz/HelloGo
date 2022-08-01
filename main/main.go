@@ -14,7 +14,7 @@ func ping(c *gin.Context) {
 func main() {
     var i int = 10
 	i = 30
-	i = 50
+	i = 40
 	fmt.Println("i=",i)
 	
 	fmt.Println(model.HeroName)
